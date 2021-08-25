@@ -25,3 +25,10 @@ the return response are:
 * Hey, ask me something that's not impossible to do! (the input format is not right or if it is not possible to convert the first *** from Arabic to generalised Roman or from generalised Roman to Arabic)
 * Sure! It is *** (If the input is as expected and the conversion can be performed)
 
+# Language
+python
+
+# How to use
+clone the file to the local computer and simply hit python3 
+
+
