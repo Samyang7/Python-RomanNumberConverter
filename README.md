@@ -1,8 +1,11 @@
-# PythonProject
+# Description 
+Roman number converter is able to convert the Roman number to numeric number or convert the numeric number to Roman number Depending on the request type.
 
-this is UNSW COMP9021 assignment1
+# Request type
+The program will prompts the user for an input with **How can i help you?**. the accepted input are one of the three possible kinds:
+* Please convert ***
+* Please convert *** using ***
 
-this roman number converter is able to convert the Roman number to numeric number or convert the numeric number to Roman number.
+if input is not of those kind. the program will print out:
 
-## tutorial
-tutorial for the youtube
+**I don't get what you want, sorry mate!**
