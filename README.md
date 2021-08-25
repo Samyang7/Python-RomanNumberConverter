@@ -29,6 +29,6 @@ the return response are:
 python
 
 # How to use
-clone the file to the local computer and simply hit python3 
+clone the file to the local computer and simply hit python3 roman_arabic.py
 
 
